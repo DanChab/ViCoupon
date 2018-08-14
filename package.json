@@ -1,0 +1,19 @@
+{
+  "name": "vicoupon",
+  "version": "1.0.0",
+  "description": "Vicoupon is easy to provide discount on product via messenger bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanChab/ViCoupon.git"
+  },
+  "author": "Daniel Chabala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanChab/ViCoupon/issues"
+  },
+  "homepage": "https://github.com/DanChab/ViCoupon#readme"
+}
